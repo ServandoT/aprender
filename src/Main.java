@@ -11,6 +11,7 @@ public class Main {
       //test1();
       test2();
       // Hola he cambiado algo
+      System.out.println("Hola");
    }
    
    public static void test1() throws Exception {
@@ -22,7 +23,6 @@ public class Main {
       System.out.println(entreandor1.getNombre());
       entreandor1.setNombre("$%$&$&/*");
       System.out.println(entreandor1.getNombre());
-      System.out.println("Hola");
       System.out.println(local);
       
 

@@ -1,0 +1,5 @@
+package enums;
+
+public enum TipoEntrenador {
+    PRIMER_ENTRENADOR, SEGUNDO_ENTRENADOR, ENTRENADOR_PORTEROS, ENTRENADOR_FISICO
+}
